@@ -3,7 +3,7 @@
 $host = "localhost";
 $user = "root";
 $password = "";
-$database = "inventory_system";
+$database = "inventory_and_stock_management_system";
 
 $conn = mysqli_connect($host, $user, $password, $database);
 
